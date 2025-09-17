@@ -9,7 +9,12 @@ A **proactive** Frontend developer with **excellent communication skills**, **re
 - **Web Vitals Optimization** - Improving Core Web Vitals and overall site performance
 - **Developer Experience Enhancement**- Streamlining workflows and boosting team productivity
 - **Separation of Concerns** - Building maintainable, modular, and well-architected code
-
+  
+### 🌍 Open Source Contributions
+  
+#### [mantinedev/mantine](https://github.com/mantinedev/mantine)
+- ✅ **Pull Request**: [🐛Fix: NestedList overflow issue (#8269)](https://github.com/mantinedev/mantine/pull/8269) *(2025-09-16)*
+  
 ### 🎓 Education
 **✔️ SSAFY (Samsung Software AI Academy For Youth) 13th** - Java Track (2025.01 ~ 2026.01)  
 **✔️ SW Academy Jungle (KAIST) 6th** - Computer Science Basics (2023.02 ~ 2023.07)
