@@ -12,11 +12,12 @@ A **proactive** Frontend developer with **excellent communication skills**, **re
   
 ### 🌍 Open Source Contributions
   
-#### [mantinedev/mantine](https://github.com/mantinedev/mantine)
+### [mantinedev/mantine](https://github.com/mantinedev/mantine)
 - ✅ **Pull Request**: [🐛Fix: NestedList overflow issue (#8269)](https://github.com/mantinedev/mantine/pull/8269) *(2025-09-16)*
-  
+<br/>
+
 ### 🎓 Education
-**✔️ SSAFY (Samsung Software AI Academy For Youth) 13th** - Java Track (2025.01 ~ 2026.01)  
+**✔️ SSAFY (Samsung Software AI Academy For Youth) 13th** - Java Track (2025.01 ~ )  
 **✔️ SW Academy Jungle (KAIST) 6th** - Computer Science Basics (2023.02 ~ 2023.07)
 
 ---
@@ -24,27 +25,23 @@ A **proactive** Frontend developer with **excellent communication skills**, **re
 ### 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="28" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="28" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="28" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="28" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="28" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
-###
+### 📊 GitHub Stats
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=terrydkim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=terrydkim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=terrydkim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terrydkim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://streak-stats.demolab.com?user=terrydkim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+-->
 
 
 <!--
