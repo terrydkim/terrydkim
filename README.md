@@ -13,8 +13,18 @@ A **proactive** Frontend developer with **excellent communication skills**, **re
 ### 🌍 Open Source Contributions
   
 ### [mantinedev/mantine](https://github.com/mantinedev/mantine)
+**1 contributions**
+
 - ✅ **Pull Request**: [🐛Fix: NestedList overflow issue (#8269)](https://github.com/mantinedev/mantine/pull/8269) *(2025-09-16)*
+
+### [tldraw/tldraw](https://github.com/tldraw/tldraw)
+**1 contributions**
+
+- 🔄 **Pull Request**: [feat: add Numpad Enter support for text shape editing (#6830)](https://github.com/tldraw/tldraw/pull/6830) *(2025-09-25)*
+
 <br/>
+
+
 
 ### 🎓 Education
 **✔️ SSAFY (Samsung Software AI Academy For Youth) 13th** - Java Track (2025.01 ~ )  
