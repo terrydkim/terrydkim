@@ -20,7 +20,7 @@ A **proactive** Frontend developer with **excellent communication skills**, **re
 ### [tldraw/tldraw](https://github.com/tldraw/tldraw)
 **1 contributions**
 
-- 🔄 **Pull Request**: [feat: add Numpad Enter support for text shape editing (#6830)](https://github.com/tldraw/tldraw/pull/6830) *(2025-09-25)*
+- ✅ **Pull Request**: [feat: add Numpad Enter support for text shape editing (#6830)](https://github.com/tldraw/tldraw/pull/6830) *(2025-09-25)*
 
 <br/>
 
