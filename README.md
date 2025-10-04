@@ -11,23 +11,28 @@ A **proactive** Frontend developer with **excellent communication skills**, **re
 - **Separation of Concerns** - Building maintainable, modular, and well-architected code
   
 ### 🌍 Open Source Contributions
+
+### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+open-source AI agent
+- 🔄 **Pull Request**: [chore: Extract '.gemini' to GEMINI_DIR constant (#10540)](https://github.com/google-gemini/gemini-cli/pull/10540) *(2025-10-25)*
   
-### [mantinedev/mantine](https://github.com/mantinedev/mantine)
-**1 contributions**
-
-- ✅ **Pull Request**: [🐛Fix: NestedList overflow issue (#8269)](https://github.com/mantinedev/mantine/pull/8269) *(2025-09-16)*
-
 ### [tldraw/tldraw](https://github.com/tldraw/tldraw)
-**1 contributions**
+**1 contributions** - whiteboard SDK / infinite canvas SDK  
 
 - ✅ **Pull Request**: [feat: add Numpad Enter support for text shape editing (#6830)](https://github.com/tldraw/tldraw/pull/6830) *(2025-09-25)*
+
+
+### [mantinedev/mantine](https://github.com/mantinedev/mantine)
+**1 contributions** - React components library
+
+- ✅ **Pull Request**: [🐛Fix: NestedList overflow issue (#8269)](https://github.com/mantinedev/mantine/pull/8269) *(2025-09-16)*
 
 <br/>
 
 
 
 ### 🎓 Education
-**✔️ SSAFY (Samsung Software AI Academy For Youth) 13th** - Java Track (2025.01 ~ )  
+**✔️ SSAFY (Samsung Software AI Academy For Youth) 13th** (2025.01 ~ )  
 **✔️ SW Academy Jungle (KAIST) 6th** - Computer Science Basics (2023.02 ~ 2023.07)
 
 ---
