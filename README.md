@@ -14,7 +14,7 @@ A **proactive** Frontend developer with **excellent communication skills**, **re
 
 ### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 open-source AI agent
-- 🔄 **Pull Request**: [chore: Extract '.gemini' to GEMINI_DIR constant (#10540)](https://github.com/google-gemini/gemini-cli/pull/10540) *(2025-10-25)*
+- 🔄 **Pull Request**: [chore: Extract '.gemini' to GEMINI_DIR constant (#10540)](https://github.com/google-gemini/gemini-cli/pull/10540) *(2025-10-05)*
   
 ### [tldraw/tldraw](https://github.com/tldraw/tldraw)
 **1 contributions** - whiteboard SDK / infinite canvas SDK  
