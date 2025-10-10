@@ -13,7 +13,7 @@ A **proactive** Frontend developer with **excellent communication skills**, **re
 ### 🌍 Open Source Contributions
 
 ### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-open-source AI agent
+**1 contributions** - open-source AI agent
 - 🔄 **Pull Request**: [chore: Extract '.gemini' to GEMINI_DIR constant (#10540)](https://github.com/google-gemini/gemini-cli/pull/10540) *(2025-10-05)*
   
 ### [tldraw/tldraw](https://github.com/tldraw/tldraw)
@@ -23,7 +23,7 @@ open-source AI agent
 
 
 ### [mantinedev/mantine](https://github.com/mantinedev/mantine)
-**1 contributions** - React components library
+**2 contributions** - React components library
 
 - 🔄 **Pull Request**: [🐛fix(popover): prevent horizontal ghost scrolling (#8350)](https://github.com/mantinedev/mantine/pull/8350) *(2025-10-11)*
 - ✅ **Pull Request**: [🐛Fix: NestedList overflow issue (#8269)](https://github.com/mantinedev/mantine/pull/8269) *(2025-09-16)*
