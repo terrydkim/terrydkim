@@ -25,6 +25,7 @@ open-source AI agent
 ### [mantinedev/mantine](https://github.com/mantinedev/mantine)
 **1 contributions** - React components library
 
+- 🔄 **Pull Request**: [🐛fix(popover): prevent horizontal ghost scrolling (#8350)](https://github.com/mantinedev/mantine/pull/8350) *(2025-10-11)*
 - ✅ **Pull Request**: [🐛Fix: NestedList overflow issue (#8269)](https://github.com/mantinedev/mantine/pull/8269) *(2025-09-16)*
 
 <br/>
