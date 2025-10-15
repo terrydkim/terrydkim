@@ -25,7 +25,7 @@ A **proactive** Frontend developer with **excellent communication skills**, **re
 ### [mantinedev/mantine](https://github.com/mantinedev/mantine)
 **3 contributions** - React components library
 
-- 🔄 **Pull Request**: [📜docs(select): add horizontal infinite scroll workaround (#8355)](https://github.com/mantinedev/mantine/pull/8355) *(2025-10-11)*
+- ✅ **Pull Request**: [📜docs(select): add horizontal infinite scroll workaround (#8355)](https://github.com/mantinedev/mantine/pull/8355) *(2025-10-11)*
 - ❌ **Pull Request**: [🐛fix(popover): prevent horizontal ghost scrolling (#8350)](https://github.com/mantinedev/mantine/pull/8350) *(2025-10-11)*
 - ✅ **Pull Request**: [🐛Fix: NestedList overflow issue (#8269)](https://github.com/mantinedev/mantine/pull/8269) *(2025-09-16)*
 
