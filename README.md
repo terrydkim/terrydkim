@@ -35,7 +35,6 @@ A **proactive** Frontend developer with **excellent communication skills**, **re
 
 ### 🎓 Education
 **✔️ SSAFY (Samsung Software AI Academy For Youth) 13th** (2025.01 ~ )  
-**✔️ SW Academy Jungle (KAIST) 6th** - Computer Science Basics (2023.02 ~ 2023.07)
 
 ---
 
